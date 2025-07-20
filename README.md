@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @s-Nikhil-r
-- 👀 I’m interested in AI.
+- 👋 Hi
